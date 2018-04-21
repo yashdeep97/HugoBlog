@@ -36,10 +36,11 @@ canonifyurls = true
   job = "Student"
   location = "India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "yashdeep97@gmail.com"
+  # gravatarEmail = "yashdeep97@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  #picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "https://avatars0.githubusercontent.com/u/17726021?s=460&v=4"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -77,14 +78,14 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
 
-[[menu.misc]]
+[[menu.links]]
     weight = 1
     identifier = "github"
     name = "GitHub"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-    url = "https://github.com/kakawait"
+    url = "https://github.com/yashdeep97"
 
-[[menu.misc]]
+[[menu.links]]
     weight = 2
     identifier = "stackoverflow"
     name = "Stack Overflow"
@@ -112,7 +113,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  # description = "Hugo tranquilpeak theme demo"
 
   # Customization
   # Define the behavior of the sidebar
@@ -138,14 +139,14 @@ canonifyurls = true
   coverImage = "cover.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = true
+  imageGallery = false
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   thumbnailImage = true
   # Display thumbnail image at the right of title in index pages (`right`, `left` or `bottom`)
   # Set this value to `right` if you have old posts to keep the old style on them
   # and define `thumbnailImagePosition` on a post to overwrite this setting
-  thumbnailImagePosition = "bottom"
+  thumbnailImagePosition = "left"
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
@@ -190,10 +191,6 @@ canonifyurls = true
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
