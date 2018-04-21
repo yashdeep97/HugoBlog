@@ -17,7 +17,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Yashdeep's Blog"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "hugoblog-2"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -87,10 +87,17 @@ canonifyurls = true
 
 [[menu.links]]
     weight = 2
-    identifier = "stackoverflow"
-    name = "Stack Overflow"
-    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-    url = "https://stackoverflow.com/users/636472/kakawait"
+    identifier = "facebook"
+    name = "Facebook"
+    pre = "<i class=\"sidebar-button-icon fa fa-lg fa-facebook-square\"></i>"
+    url = "https://www.facebook.com/yashdeep.thorat.5"
+
+    [[menu.links]]
+        weight = 2
+        identifier = "gmail"
+        name = "Gmail"
+        pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+        url = "https://mailto:yashdeep97@gmail.com"
 
 [params]
   # Customize date format use to render blog post date, categories and other
