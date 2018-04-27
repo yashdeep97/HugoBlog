@@ -21,6 +21,7 @@ disqusShortname = "hugoblog-2"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
+relativeurls = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
