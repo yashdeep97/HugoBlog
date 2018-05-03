@@ -4,7 +4,7 @@ thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/dmytyofam/image/upload/v1525352005/220px-GSoC.png
 metaAlignment: center
 coverMeta: out
-date: 2015-05-13
+date: 2015-05-05
 categories:
 - GSoC
 tags:
@@ -12,11 +12,11 @@ tags:
 - Wikimedia
 - MediaWiki
 - Page Forms
+disqusIdentifier: gsoc1
 ---
 
 The results are out and I have been selected for GSoC 2018!
 I couldn't be more thrilled as I take my first step into the Open Source World.
-
 <!--more-->
 ### The Journey so far...
 I have been able to learn a lot of new things during the GSoC application period, from the initial confusion of choosing the right project and organisation to submitting a proposal.
@@ -27,16 +27,23 @@ Bala and Nischay encouraged me and helped me refine my proposal and take it to c
 The couple of weeks before the application deadline were a bit stressfull with the pressure to write a good proposal and making more contributions, along with balancing my academic requirements. I also received help from my batchmates (particularly, Rohitt and Arnav), who encouraged me throughout the process.
 Finally, I submitted my proposal and the wait for the results began. I was anxious about the results, but when they came out, I was feeling on top of the world!
 
-The entire journey has instilled a lot of confidance in me and has given me a sense of achievement. :)
+The entire journey has instilled a lot of confidence in me and has given me a sense of achievement. :)
 
-### My project: Add a Spreadheet Interface to the Page Forms Extension
-**Introduction:** The Page Forms extension for MediaWiki is currently used to create and edit pages using an interface made up of forms that simplify the process. The Forms can be used to add and edit template calls in the pages. This project aims to add a special page that provides a spreadsheet-like interface ( rendered using jsGrid ) that will allow administrators of a wiki to edit multiple pages at once.
+### My project: Add a Spreadsheet Interface to the Page Forms Extension
+
+The different tools used to edit and create new pages with MediaWiki fascinated me and the Page Forms extension provides a novel method to do the same. Using the Page Forms extension, one can create forms made up of multiple templates. These forms can then be filled to create pages. The pages can also be edited using the same forms.
+
+My project over this summer will aim to add a spreadsheet like interface to edit multiple pages at once. Similar to the forms, the spreadsheet will contain calls from various pages to the same tempate which the administrator can then edit. New pages with the same template can also be added using the same interface.
+
+Other features planned are: renaming pages, support for fields with combo-box and tokens with autocompletion.
 
 I made some **mockups** for it:
 
 ![wireframe1](https://res.cloudinary.com/dmytyofam/image/upload/v1525352161/blog-images/ProposalWireframe_1.png)
 
 ![wireframe2](https://res.cloudinary.com/dmytyofam/image/upload/v1525352168/blog-images/ProposalWireframe_2.png)
+
+ I believe contributing to this project would be a great opportunity for me to be a part of this amazing community and write code that will possibly be used by millions of people.
 
 **Related links:**
 
