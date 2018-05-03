@@ -12,21 +12,20 @@ tags:
 - Wikimedia
 - MediaWiki
 - Page Forms
-- Spreadsheet Interface
 ---
 
-The results are out! and I cannot express my emotions fully in words.
-I couldn't be more overjoyed as I take my first step into the Open Source World.
+The results are out and I have been selected for GSoC 2018!
+I couldn't be more thrilled as I take my first step into the Open Source World.
 
 <!--more-->
 ### The Journey so far...
 I have been able to learn a lot of new things during the GSoC application period, from the initial confusion of choosing the right project and organisation to submitting a proposal.
-After going through a lot of different projects of various organisations, I decided Wikimedia was the right organisation and the Page Forms project was the right project for me. Then I started contributing to it and understanding the various features to be implemented as part of the project.
+After going through a lot of different projects of various organisations, I decided the Page Forms project by Wikimedia Foundation was the right project for me. Then I started contributing to it and understanding the various features to be implemented as part of the project.
 
 Although the journey was a bit overwhelming and difficult at first, I received a lot of guidance from Yaron along the way as I tried my hand at couple of microtasks and fixing a few bugs.
 Bala and Nischay encouraged me and helped me refine my proposal and take it to completion.
 The couple of weeks before the application deadline were a bit stressfull with the pressure to write a good proposal and making more contributions, along with balancing my academic requirements. I also received help from my batchmates (particularly, Rohitt and Arnav), who encouraged me throughout the process.
-Finally, I submitted my proposal and the wait for the results began. I was anxious about the results, but when they came out, I was on top of the world!
+Finally, I submitted my proposal and the wait for the results began. I was anxious about the results, but when they came out, I was feeling on top of the world!
 
 The entire journey has instilled a lot of confidance in me and has given me a sense of achievement. :)
 
