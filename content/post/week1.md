@@ -4,7 +4,7 @@ thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/dmytyofam/image/upload/v1525352005/220px-GSoC.png
 metaAlignment: center
 coverMeta: out
-date: 2015-05-03
+date: 2018-05-03
 categories:
 - GSoC
 tags:
