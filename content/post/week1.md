@@ -24,7 +24,7 @@ After going through a lot of different projects of various organisations, I deci
 
 Although the journey was a bit overwhelming and difficult at first, I received a lot of guidance from [Yaron](https://www.mediawiki.org/wiki/User:Yaron_Koren) along the way as I tried my hand at couple of microtasks and fixing a few bugs.
 [Bala](https://github.com/balabky9) and [Nischay](https://github.com/nischayn22) encouraged me and helped me refine my proposal and bring it to completion.
-The couple of weeks before the application deadline were a bit stressfull with the pressure to write a good proposal and make more contributions, along with balancing my academic requirements. I also received help from my batchmates (particularly, [Rohitt](https://github.com/aero31aero) and [Arnav](https://github.com/shortstheory)), who encouraged me throughout the process.
+The couple of weeks before the application deadline were a bit stressful with the pressure to write a good proposal and make more contributions, along with balancing my academic requirements. I also received help from my batchmates (particularly, [Rohitt](https://github.com/aero31aero) and [Arnav](https://github.com/shortstheory)), who encouraged me throughout the process.
 Finally, I submitted my proposal and the wait for the results began. I was anxious about the results, but when they came out, I was feeling on top of the world!
 
 The entire journey has instilled a lot of confidence in me and has given me a sense of achievement. :)
